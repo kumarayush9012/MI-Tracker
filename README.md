@@ -55,4 +55,11 @@
 ***pip install -r requirements.txt***
 
 ***python -m streamlit run app.py***
+## 📷 Demo
+
+### ECG Graph Visualization
+![ECG Graph](demo-graph.png)
+
+### Prediction Result
+![Prediction Result](demo-result.png)
 
