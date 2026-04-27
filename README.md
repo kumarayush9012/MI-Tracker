@@ -62,4 +62,12 @@
 
 ### Prediction Result
 ![Prediction Result](demo-result.png)
+## 📷 Demo
+
+### ECG Graph Visualization
+![ECG Graph](demo 2.png)
+
+### Prediction Result
+![Prediction Result](demo 2(1).png)
+
 
