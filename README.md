@@ -57,17 +57,21 @@
 ***python -m streamlit run app.py***
 ## 📷 Demo
 
-### ECG Graph Visualization
-![ECG Graph](demo-graph.png)
+### 🟢 Normal ECG
 
-### Prediction Result
-![Prediction Result](demo-result.png)
-## 📷 Demo
+#### Graph
+![Normal Graph](demo-graph.png)
 
-### ECG Graph Visualization
-![ECG Graph](demo 2.png)
+#### Result
+![Normal Result](demo-result.png)
 
-### Prediction Result
-![Prediction Result](demo 2(1).png)
+---
 
+### 🔴 Abnormal ECG (Possible MI)
+
+#### Graph
+![Abnormal Graph](abnormal-graph.png)
+
+#### Result
+![Abnormal Result](abnormal-result.png)
 
